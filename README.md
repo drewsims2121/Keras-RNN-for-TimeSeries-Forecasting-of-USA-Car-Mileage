@@ -3,8 +3,7 @@ Keras RNN used for forecasting time series data of USA car mileage.
 
 The data was downloaded from: https://fred.stlouisfed.org/series/TRFVOLUSM227NFWA
 
-        - The data is based on the number of miles driven within the                                       
-          United States each year
+        - The data is based on the number of miles driven within the United States each year
         - The data is collected in a monthly interval
         
 **The goal of this project is to forecast how many miles will be driven within the United States over the course of the next 2 years using a RNN.**
